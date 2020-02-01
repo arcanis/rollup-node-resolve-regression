@@ -1,0 +1,8 @@
+{
+  "name": "tmp.ny3tBU82WT",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "7.1.0",
+    "lodash": "^4.17.15",
+    "rollup": "^1.31.0"
+  }
+}
